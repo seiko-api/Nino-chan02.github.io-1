@@ -13,4 +13,3 @@ I'm [Nino](https://hazaku-rei.pages.dev)
 Contact me
 <br><br>
 [<img src="https://img.shields.io/badge/Telegram-%40Nink-blue">](https://t.me/Nino_chann)
-[<img src="https://img.shields.io/badge/Email-Nino-orange">](mailto: ininochan3@gmail.com)
