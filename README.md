@@ -1,6 +1,6 @@
 ﻿### Hi there 👋
 
-I'm [Reiyuura](https://hazaku-rei.pages.dev)
+I'm [Nino](https://hazaku-rei.pages.dev)
 - 🔭 Desain web terinspirasi dari [Moe Poi Senpai](https://github.com/moepoi)
 
 
@@ -12,5 +12,5 @@ I'm [Reiyuura](https://hazaku-rei.pages.dev)
 
 Contact me
 <br><br>
-[<img src="https://img.shields.io/badge/Telegram-%40Reiyuura-blue">](https://t.me/FReiyuura)
-[<img src="https://img.shields.io/badge/Email-Reiyuura-orange">](mailto:yuiireichi@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-%40Nink-blue">](https://t.me/Nino_chann)
+[<img src="https://img.shields.io/badge/Email-Nino-orange">](mailto: ininochan3@gmail.com)
